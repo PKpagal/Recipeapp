@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">recipeapp</string>
+    <string name="api_key"> 1656454c24cd466eba8d85a17f100b6d</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+
+
+</resources>
